@@ -1,0 +1,28 @@
+.banner {
+    align-items: end;
+    background-color: #576C5D;
+    background-image: url('../../../public/imagens/banner2.png');
+    display: flex;
+    height: 556px;
+    padding-left: 400px;
+}
+
+.banner h1,
+.banner h2 {
+    margin: 0;
+    padding: 0;
+}
+
+.banner h1 {
+    font-family: 'Prata', serif;
+    font-size: 72px;
+    font-weight: 400;
+    line-height: 72px;
+}
+
+.banner h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 72px;
+}

@@ -1,0 +1,44 @@
+.tripulante {
+    position: relative;
+    width: 280px;
+}
+
+.tripulante .cabecalho {
+    background-color:  #F0F0F0;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.tripulante img {
+    border-radius: 50%;
+    bottom: -50px;
+    position: relative;
+    width: 100px;
+}
+
+.tripulante .rodape {
+    background: #FFFFFF;
+    border-radius: 0px 0px 10px 10px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.08);
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 40px;
+    padding-bottom: 4px;
+}
+
+.tripulante .rodape h4 {
+    color: #000000;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.tripulante .rodape h5 {
+    color: #212121;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.deletar {
+    cursor: pointer;
+    position: absolute;
+    right: -10px;
+    top: -10px;
+}
