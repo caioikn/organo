@@ -1,4 +1,4 @@
-# Frontend Mentor - Calculador de Índice de Massa Corporal
+# Organo
 
 <p align="center">
      <img loading="lazy" alt="Static Badge" src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-blue?style=for-the-badge">
